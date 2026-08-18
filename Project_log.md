@@ -11,7 +11,7 @@
 ## Objective
 Started planning the BankIQ project.
 
-## Work Completed (28 july 2026)
+## Work Completed 
 -Finalised Project title.
 -Decided Banking domain.
 -Decided project scope.
@@ -21,7 +21,7 @@ Started planning the BankIQ project.
 ## Objective
 Understand the structure of the dataset before the analysis
 
-## Work Completed (29 july 2026)
+## Work Completed 
 - Studied the dataset and became familier with it
 - Created an environment for project
 - Installed all the necessary libraries
@@ -31,7 +31,7 @@ Understand the structure of the dataset before the analysis
 ## Objective 
 Learn about the basics of Git and Git hub
 
-## Work Completed (30 July 2026)
+## Work Completed 
 - Learnt about Git and Github
 - Understand the process of making a repository in git 
 - Learnt about some basic Git commands like git init, git add, git commit, git --version, git config --list,, git config --global user.name, git config --global user.email 
@@ -40,5 +40,9 @@ Learn about the basics of Git and Git hub
 ## objective 
 Initialization of the project into git
 
-## Work Completed (31 July 2026)
-- 
+## Work Completed 
+- ## Day 5 - Git & GitHub Setup
+- Configured Git, connected the local repository to GitHub, and pushed the initial BankIQ project successfully.
+- Configured `.gitignore` to exclude the virtual environment and raw dataset from version control.
+- Resolved the Git push issue caused by the large dataset and learned how Git tracking and commit history work.
+- Updated the project documentation and prepared the repository for the Data Discovery phase.
